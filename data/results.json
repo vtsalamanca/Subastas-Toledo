@@ -1,1 +1,4472 @@
-[]
+[
+  {
+    "referencia": "SUB-JA-2026-267123",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267123",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-267123"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4958 0000 06 0152 20"
+      ],
+      "Fecha de inicio": [
+        "16-10-2026 18:00:00 CET (ISO: 2026-10-16T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "05-11-2026 18:00:00 CET (ISO: 2026-11-05T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "95.464,31 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-33161"
+      ],
+      "Valor subasta": [
+        "163.784,80 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "3.275,69 €"
+      ],
+      "Importe del depósito": [
+        "8.189,24 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141006"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 6"
+      ],
+      "Dirección": [
+        "CL BOROX 3 3 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542389"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA.- NUMERO TRES.- SOLAR EN LA POBLACION DE NUMANCIA DE LA SAGRA (TOLEDO) EN LA CALLE ALBACETE, NÚMERO 3. Ocupa una superficie de 166,35 metros cuadrados."
+          ],
+          "Dirección": [
+            "CALLE ALBACETE, Nº 3"
+          ],
+          "Código Postal": [
+            "45230"
+          ],
+          "Localidad": [
+            "NUMANCIA DE LA SAGRA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Vivienda habitual": [
+            "Sí"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-267123 Sección Civil e Instrucción TI Illescas. Plz.n 6 - ILLESCAS Expediente: 0152/20 Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00] Finca registral núm. 4265. Inscrita en el Registro de la Propiedad número 1 de Illescas, al tomo 1656, libro 55, folio 198, inscripción 3ª y 4ª. Más... (Referencia SUB-JA-2026-267123)"
+  },
+  {
+    "referencia": "SUB-RC-2026-452000016842",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-RC-2026-452000016842",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-RC-2026-452000016842"
+      ],
+      "Tipo de subasta": [
+        "RECAUDACIÓN TRIBUTARIA"
+      ],
+      "Fecha de inicio": [
+        "16-10-2026 18:00:00 CET (ISO: 2026-10-16T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "05-11-2026 18:00:00 CET (ISO: 2026-11-05T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "732.377,12 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-33295"
+      ],
+      "Valor subasta": [
+        "802.524,00 €"
+      ],
+      "Tasación": [
+        "802.524,00 €"
+      ],
+      "Puja mínima": [
+        "80.252,40 €"
+      ],
+      "Tramos entre pujas": [
+        "1.000,00 €"
+      ],
+      "Importe del depósito": [
+        "40.126,20 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "45200001"
+      ],
+      "Descripción": [
+        "Ayuntamiento de Illescas"
+      ],
+      "Dirección": [
+        "Plaza del Mercado, 14 ; 45200 Illescas"
+      ],
+      "Teléfono": [
+        "925511051"
+      ],
+      "Fax": [
+        "925541615"
+      ],
+      "Correo electrónico": [
+        "registro@illescas.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Solar)",
+        "campos": {
+          "Descripción": [
+            "Finca urbana nº 30.588 del Registro de la Propiedad de Illescas. Parcela 11.2 del Sector SUB SO-06 \"Plataforma Central Iberum Multimodal\", Calle Vial 6 Puerto Seco, Parcela 11.2, Illescas (Toledo). Superficie: 7.095,70 m². Referencia catastral: 8002106VK2480S0000AU. Pleno dominio."
+          ],
+          "IDUFIR": [
+            "45013001554284"
+          ],
+          "Referencia catastral": [
+            "8002106VK2480S0000AU"
+          ],
+          "Dirección": [
+            "Calle Vial 6 Puerto Seco, Parcela 11.2"
+          ],
+          "Código Postal": [
+            "45200"
+          ],
+          "Localidad": [
+            "Illescas"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Vivienda habitual": [
+            "No"
+          ],
+          "Situación posesoria": [
+            "Sin ocupantes"
+          ],
+          "Visitable": [
+            "Sí"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-RC-2026-452000016842 Ayuntamiento de Illescas - Illescas Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00] Finca urbana nº 30.588 de Illescas. Parcela 11.2 del Sector SUB SO-06 \"Plataforma Central Iberum Multimodal\", Calle Vial 6 Puerto Seco, Parcela 11.2, Illescas (Toledo). Superficie: 7.095,70 m². Referencia catastral: 8002106VK2480S0000AU Más... (Referencia SUB-RC-2026-452000016842)"
+  },
+  {
+    "referencia": "SUB-AT-2026-26R2886001434",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001434",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-AT-2026-26R2886001434"
+      ],
+      "Tipo de subasta": [
+        "AGENCIA TRIBUTARIA"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-33107"
+      ],
+      "Valor subasta": [
+        "84.557,15 €"
+      ],
+      "Tasación": [
+        "84.557,15 €"
+      ],
+      "Puja mínima": [
+        "8.455,72 €"
+      ],
+      "Tramos entre pujas": [
+        "2.000,00 €"
+      ],
+      "Importe del depósito": [
+        "4.227,85 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "R28860"
+      ],
+      "Descripción": [
+        "U.R. SUBASTAS MADRID (AEAT)"
+      ],
+      "Dirección": [
+        "CL GUZMAN EL BUENO 139 ; 28003 MADRID"
+      ],
+      "Teléfono": [
+        "913335333"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "subastas.madrid@correo.aeat.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "50% DEL PLENO DOMINIO. URBANA. - PARCELA DE TERRERO EN CASARRUBIOS DEL MONTE, SEÑALADA CON EL NÚMERO 266 DEL PLANO PARCELARIO, DE LA URBANIZACIÓN DENOMINADA FADO, CON UNA SUPERFICIE DE 647M2. SOBRE ESTA FINCA EXISTE LA SIGUIENTE EDIFICACIÓN: VIVIENDA UNIFAMILIAR DE PLANTA BAJA, COMPUESTA DE SALÓN-COMEDOR, DOS DORMITORIOS, CUARTO DE BAÑO, COCINA, HALL Y PORCHE. ADOSADO A LA VIVIENDA HAY UN GARAJE. OCUPA LO EDIFICADO UNA EXTENSIÓN SUPERFICIAL APROXIMADA DE 80M2. REFERENCIA CATASTRAL: 0456701VK1505N0001RM"
+          ],
+          "IDUFIR": [
+            "45014000127172"
+          ],
+          "Referencia catastral": [
+            "0456701VK1505N0001RM"
+          ],
+          "Dirección": [
+            "CL CORDOBA 266"
+          ],
+          "Código Postal": [
+            "45950"
+          ],
+          "Localidad": [
+            "CASARRUBIOS DEL MONTE"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No"
+          ],
+          "Cargas": [
+            "0,00 €"
+          ],
+          "Inscripción registral": [
+            "BIEN INSCRITO EN REGISTRO NÚM. 2 DE ILLESCAS TOMO: 1462 , FOLIO: 183 , LIBRO: 107. FINCA: 6200 , INSCRIPCIÓN: 4"
+          ],
+          "Título jurídico": [
+            "PLENO DOMINIO"
+          ],
+          "Información adicional": [
+            "Se ejecuta por la diligencia de embargo numero 282023412327B de fecha 14-09-2020, con anotacion letra A de fecha 12-11-2020. Prorrogado por la anotacion B de fecha 18-09-2024."
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-AT-2026-26R2886001434 U.R. SUBASTAS MADRID - MADRID (AEAT) Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] 50% PLENO DOMINIO VIVIENDA SITA EN CL CORDOBA, 266,45950,CASARRUBIOS DEL MONTE Más... (Referencia SUB-AT-2026-26R2886001434)"
+  },
+  {
+    "referencia": "SUB-AT-2026-26R2886001465",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001465",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-AT-2026-26R2886001465"
+      ],
+      "Tipo de subasta": [
+        "AGENCIA TRIBUTARIA"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-33111"
+      ],
+      "Valor subasta": [
+        "43.316,46 €"
+      ],
+      "Tasación": [
+        "72.194,10 €"
+      ],
+      "Puja mínima": [
+        "4.331,65 €"
+      ],
+      "Tramos entre pujas": [
+        "1.000,00 €"
+      ],
+      "Importe del depósito": [
+        "2.165,82 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "R28860"
+      ],
+      "Descripción": [
+        "U.R. SUBASTAS MADRID (AEAT)"
+      ],
+      "Dirección": [
+        "CL GUZMAN EL BUENO 139 ; 28003 MADRID"
+      ],
+      "Teléfono": [
+        "913335333"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "subastas.madrid@correo.aeat.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Local comercial)",
+        "campos": {
+          "Descripción": [
+            "100%PLENO DOMINIO . LOCAL COMERCIAL SITO EN LA PLANTA SOTANO DEL EDIFICIO CORRESPONDIENTE A LA CALLE DONANTES DE SANGRE, 2 DE LA LOCALIDAD DE VILLATOBAS (TOLEDO). TIENE UNA SUPERFICIE DE 629,80 M2. TIENE SU ACCESO POR PUERTA CON RAMPA EN CALLE DE SU SITUACIÓN.LINDA: AL FRENTE Y A LA IZQUIERDA, CON UNA CALLE DE NUEVA CREACION A LA DERECHA, CON LA CARRETERA GENERAL DE MADRID A ALBACETE Y AL FONDO, CON LA CALLE POZO DE LA NIEVE. TIENE UNA CUOTA DE PARTICIPACION SOBRE EL TOTAL DE LA FINCA DEL 6%.INFORMACIÓN ADICIONAL: SE EJECUTA LA INSCRIPCIÓN 8ª"
+          ],
+          "IDUFIR": [
+            "45003000556044"
+          ],
+          "Referencia catastral": [
+            "2372801VK7127S0001MP"
+          ],
+          "Dirección": [
+            "CL DONANTES SANGRE 2 -1"
+          ],
+          "Código Postal": [
+            "45310"
+          ],
+          "Localidad": [
+            "VILLATOBAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No"
+          ],
+          "Cargas": [
+            "0,00 €"
+          ],
+          "Inscripción registral": [
+            "BIEN INSCRITO EN REGISTRO DE LILLO TOMO: 996 , FOLIO: 211 , LIBRO: 153. FINCA: 15402 , INSCRIPCIÓN: 5"
+          ],
+          "Título jurídico": [
+            "PLENO DOMINIO"
+          ],
+          "Información adicional": [
+            "Se ejecuta la inscripcion 8 ."
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-AT-2026-26R2886001465 U.R. SUBASTAS MADRID - MADRID (AEAT) Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] 100% PLENO DOMINIO. LOCAL COMERCIAL: CL DONANTES SANGRE 2, PL:-1 VILLATOBAS (TOLEDO) Más... (Referencia SUB-AT-2026-26R2886001465)"
+  },
+  {
+    "referencia": "SUB-JA-2025-251935",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-251935",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2025-251935"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4308 0000 05 0146 23"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "139.800,63 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-33005"
+      ],
+      "Valor subasta": [
+        "168.813,33 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "3.376,26 €"
+      ],
+      "Importe del depósito": [
+        "8.440,66 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4516541002"
+      ],
+      "Descripción": [
+        "JUZGADO 1 INST E INSTRUCC. 2"
+      ],
+      "Dirección": [
+        "CL MERIDA 9 9 ; 45600 TALAVERA DE LA REINA"
+      ],
+      "Teléfono": [
+        "925812560"
+      ],
+      "Fax": [
+        "925826369"
+      ],
+      "Correo electrónico": [
+        "MIXTO2.TALAVERADELAREINA@MJU.ES"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "SEGUN EDICTO"
+          ],
+          "Dirección": [
+            "CALLE DE LA IGLESIA SN"
+          ],
+          "Código Postal": [
+            "45612"
+          ],
+          "Localidad": [
+            "VELADA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ],
+          "Inscripción registral": [
+            "SEGUN EDICTO"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2025-251935 JUZGADO 1 INST E INSTRUCC. 2 - TALAVERA DE LA REINA Expediente: 0146/23 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] SEGUN EDICTO Más... (Referencia SUB-JA-2025-251935)"
+  },
+  {
+    "referencia": "SUB-JA-2026-263668",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263668",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-263668"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4322 0000 06 0212 23"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "114.877,89 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32978"
+      ],
+      "Valor subasta": [
+        "140.000,00 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "2.800,00 €"
+      ],
+      "Importe del depósito": [
+        "7.000,00 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4516842002"
+      ],
+      "Descripción": [
+        "Sección Civil TI Toledo. Plz.n 2"
+      ],
+      "Dirección": [
+        "CL MARQUES DE MENDIGORRIA 10 10 ; 45003 TOLEDO"
+      ],
+      "Teléfono": [
+        "925396044"
+      ],
+      "Fax": [
+        "925396049"
+      ],
+      "Correo electrónico": [
+        "scej.civilsocca.toledo@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "FINCA REGISTRAL 5689 RP TOLEDO, TOMO 1393, LIBRO 83, FOLIO 179- PARCELA Nº 28 EN C/ OLIAS , S/N - MAGAN (TOLEDO)"
+          ],
+          "Dirección": [
+            "C/ OLIAS, S/N"
+          ],
+          "Código Postal": [
+            "45590"
+          ],
+          "Localidad": [
+            "MAGAN"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [
+      {
+        "titulo": "certificado de cargas",
+        "url": "https://subastas.boe.es/verDocumento.php?idSub=SUB-JA-2026-263668&idDoc=2-5762898c324202055fe4fcfb7d7c986b"
+      },
+      {
+        "titulo": "informacion adicional de cargas",
+        "url": "https://subastas.boe.es/verDocumento.php?idSub=SUB-JA-2026-263668&idDoc=3-c5b9e473502eb4585de6b52b17585ab1"
+      }
+    ],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-263668 Sección Civil TI Toledo. Plz.n 2 - TOLEDO Expediente: 0212/23 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] FINCA REGISTRAL 5689 RP TOLEDO, TOMO 1393, LIBRO 83, FOLIO 179- PARCELA Nº 28 EN C/ OLIAS , S/N - MAGAN (TOLEDO) Más... (Referencia SUB-JA-2026-263668)"
+  },
+  {
+    "referencia": "SUB-JA-2026-265819",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265819",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-265819"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4958 0000 06 0123 15"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "186.542,85 €"
+      ],
+      "Lotes": [
+        "3"
+      ],
+      "Forma adjudicación": [
+        "Separada para cada lote"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32883"
+      ],
+      "Valor subasta": [
+        "Ver valor de subasta en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Tasación": [
+        "Ver valor de tasación en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Puja mínima": [
+        "Ver puja mínima de cada lote (adjudicación independiente)"
+      ],
+      "Tramos entre pujas": [
+        "Ver tramos de cada lote (adjudicación independiente)"
+      ],
+      "Importe del depósito": [
+        "Ver importe de consignación de cada lote (adjudicación independiente)"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141006"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 6"
+      ],
+      "Dirección": [
+        "CL BOROX 3 3 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925514632"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Otros)",
+        "campos": {
+          "Descripción": [
+            "FINCA Nº 5153. INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE ILLESCAS, AL TOMO 2563, LIBRO 66, FOLIO 121."
+          ],
+          "Referencia catastral": [
+            "5753901VK0455S0007ZJ"
+          ],
+          "Dirección": [
+            "C/ TRINIDAD 14 Es:2 Pl:00 Pt:03"
+          ],
+          "Código Postal": [
+            "45183"
+          ],
+          "Localidad": [
+            "LAS VENTAS DE RETAMOSA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "1"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Otros)",
+        "campos": {
+          "Descripción": [
+            "FINCA Nº 5154. INSCRITA EN EÑ REGISTRO DE LA PROPIEDA DE ILLESCAS AL TOMO 2563, LIBRO 66, FOLIO 124."
+          ],
+          "Referencia catastral": [
+            "5753901VK0455S0008XK"
+          ],
+          "Dirección": [
+            "C/ TRINIDAD 14 Es:2 Pl:00 Pt:04"
+          ],
+          "Código Postal": [
+            "45183"
+          ],
+          "Localidad": [
+            "LAS VENTAS DE RETAMOSA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "2"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Otros)",
+        "campos": {
+          "Descripción": [
+            "FINCA Nº 5190. INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE ILLESCAS, AL TOMO 2589, LIBRO 67, FOLIO 7."
+          ],
+          "Referencia catastral": [
+            "5753901VK0455S0044ML"
+          ],
+          "Dirección": [
+            "L SANTA CLARA 1 Es:8 Pl:00 Pt:16"
+          ],
+          "Código Postal": [
+            "45183"
+          ],
+          "Localidad": [
+            "LAS VENTAS DE RETAMOSA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "3"
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 3,
+    "lotes_leidos": 3,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-265819 (3 lotes) Sección Civil e Instrucción TI Illescas. Plz.n 6 - ILLESCAS Expediente: 0123/15 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] Subasta con varios lotes. Lote 1: FINCA Nº 5153. INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE ILLESCAS, AL TOMO 2563, LIBRO 66, FOLIO 121. Lote 2: FINCA Nº 5154. INSCRITA EN EÑ REGISTRO DE LA PROPIEDA DE ILLESCAS AL TOMO 2563, LIBRO 66, FOLIO 124. Lote 3: FINCA Nº 5190. INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE ILLESCAS, AL TOMO 2589, LIBRO 67, FOLIO 7 Más... (Referencia SUB-JA-2026-265819)"
+  },
+  {
+    "referencia": "SUB-JA-2026-265843",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265843",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-265843"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4958 0000 06 0031 20"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "350.564,57 €"
+      ],
+      "Lotes": [
+        "52"
+      ],
+      "Forma adjudicación": [
+        "Separada para cada lote"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32881"
+      ],
+      "Valor subasta": [
+        "Ver valor de subasta en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Tasación": [
+        "Ver valor de tasación en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Puja mínima": [
+        "Ver puja mínima de cada lote (adjudicación independiente)"
+      ],
+      "Tramos entre pujas": [
+        "Ver tramos de cada lote (adjudicación independiente)"
+      ],
+      "Importe del depósito": [
+        "Ver importe de consignación de cada lote (adjudicación independiente)"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141006"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 6"
+      ],
+      "Dirección": [
+        "CL BOROX 3 3 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925514632"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Otros)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- NÚMERO DIECISIETE.- Vivienda LETRA \"A\", situada en la Planta Primera Del Portal Nueve de la Fase I del conjunto residencial denominado \"Vereda Alta\" en RECAS, con acceso desde el pasillo interior del conjunto de entrada a los portales que enlaza con la calle Circunvalación. Tiene una superficie construida, incluidos elementos comunes de sesenta y seis metros con cincuenta y ocho decímetros cuadrados; y útil de cincuenta y seis metros con cincuenta y siete decímetros cuadrados. Se halla compuesta de vestíbulo, pasillo distribuidor, salón-comedor, cocina, dos cuartos de baño y dos dormitorios. Linda: por su frente, con pasillo de acceso y vivienda letra B de la misma planta y portal; por la derecha entrando, con la caja de escalera del mismo portal nueve y patio del portal número ocho; izquierda, con la calle peatonal sin nombre; y por el fondo, con la vivienda letra C de la misma planta del portal número ocho. CUOTA: Tiene asignado un coeficiente de participación en la Fase I a la que pertenece de cero enteros con sesenta y dos centésimas por ciento, y en el total del conjunto de edificación (Fase I y Fase II) de cero enteros con treinta y nueve centésimas por ciento."
+          ],
+          "IDUFIR": [
+            "45022001559885"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0017EI"
+          ],
+          "Dirección": [
+            "CL DULCINEA 11 Es:9 Pl:01 Pt:A 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "1"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CINCUENTA Y CINCO.- Cuarto trastero número T7.2, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de cuatro con noventa y tres metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso, en línea de 1,70 metros; derecha entrando, cuarto trastero T7.3, en línea de 2,84 metros; izquierda, cuarto trastero T7.1, en línea de 2,84 metros; y fondo, con muro de cierre del edificio a calle Nueva, en línea de 1,70 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con doce por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero siete por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585594"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0155OF"
+          ],
+          "Dirección": [
+            "L DULCINEA 9 Es:7 Pl:-1 Pt:02 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "2"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CINCUENTA Y SEIS.- Cuarto trastero número T7.3, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de cuatro con sesenta y cuatro metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso, en línea de 1,60 metros; derecha entrando, cuarto trastero T7.4, en línea de 2,84 metros; izquierda, cuarto trastero T7.2, en línea de 2,84 metros; y fondo, con muro de cierre del edificio a calle Nueva, en línea de 1,60 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con once por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero siete por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585600"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0156PG"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:7 Pl:-1 Pt:03 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "3"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CINCUENTA Y SIETE.- Cuarto trastero número T7.4, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de cuatro con sesenta y cuatro metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso, en línea de 1,60 metros; derecha entrando, cuarto trastero T7.5, en línea de 2,84 metros; izquierda, cuarto trastero T7.3, en línea de 2,84 metros; y fondo, con muro de cierre del edificio a calle Nueva, en línea de 1,60 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con once por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero siete por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585617"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0157AH"
+          ],
+          "Dirección": [
+            "L DULCINEA 9 Es:7 Pl:-1 Pt:04 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "4"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CINCUENTA Y OCHO.- Cuarto trastero número T7.5, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de cuatro con sesenta y cuatro metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso, en línea de 1,60 metros; derecha entrando, cuarto trastero T7.6, en línea de 2,84 metros; izquierda, cuarto trastero T7.4, en línea de 2,84 metros; y fondo, con muro de cierre del edificio a calle Nueva, en línea de 1,60 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con once por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero siete por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585624"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0158SJ"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:7 Pl:-1 Pt:05 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "5"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO SESENTA Y TRES. Cuarto trastero número T7.10, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de cuatro con noventa y cuatro metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso, en línea de 1,70 metros; derecha entrando, con zona común cuartos trasteros del portal 7, en línea de 2,95 metros; izquierda, cuarto trastero T7.9, en línea de 2,85 metros; y fondo, con muro que le separa de zona de circulación, en línea de 1,70 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con once por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero siete por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585679"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0163FL"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:7 Pl:-1 Pt:10 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "6"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Trastero)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO SESENTA Y OCHO.- Cuarto trastero número T8.5, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de tres con cincuenta metros cuadrados, aproximadamente. Linda: frente, pasillo de acceso en línea de 2,23 metros; derecha entrando, con cuartos trastero T8.4, en línea de 1,60 metros; izquierda, cuarto trastero T8.6, en línea de 1,60 metros; y fondo, con muro que le separa de zona de circulación en línea de 2,23 metros. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con cero ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con cero cinco por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585723"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0168LQ"
+          ],
+          "Dirección": [
+            "L DULCINEA 9 Es:8 Pl:-1 Pt:05 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "7"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- UNO.- Plaza de aparcamiento número cincuenta y cuatro, en construcción, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con ochenta y siete metros cuadrados, una longitud libre de frente de dos con setenta y cuatro metros y fondo de cinco con cero ocho metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 55; izquierda, muro que la separa de cuarto de servicios; y fondo, muro interior. CUOTAS: Tiene asignado un coeficiente de participación:. un.- En relación a la fase I a la que pertenece de cero con cuarenta por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento"
+          ],
+          "IDUFIR": [
+            "45022001559724"
+          ],
+          "Referencia catastral": [
+            "251004VK1355S0210WU"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:54 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "8"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- SESENTA Y SEIS.- Plaza de aparcamiento número 55, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil con una superficie útil de doce con ochenta y un metros cuadrados, una longitud libre de frente de dos con cincuenta y cuatro metros y fondo de cinco con cero ocho metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 56; izquierda, plaza de garaje número 54; y fondo, muro interior. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y siete por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584702"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0066FL"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:55 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "9"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- SESENTA Y SIETE.- Plaza de aparcamiento número 56, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de catorce con trece metros cuadrados, una longitud libre de frente de dos con setenta y nueve metros y fondo de cinco con cero ocho metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, muro que la separa de cuartos trasteros del portal 11; izquierda, plaza de garaje número 55; y fondo, muro interior. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con cuarenta y un por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584719"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0067GB"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:56 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "10"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-SETENTA Y SIETE.- Plaza de aparcamiento número 66, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, destinada a aparcamiento de motocicletas, con una superficie útil de nueve con ochenta y un metros cuadrados, una longitud libre de frente de un con noventa y cinco metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, muro de cerramiento del edificio a calle Nueva; izquierda, plaza de garaje 67; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584818"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0077XR"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:66 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "11"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-SETENTA Y OCHO.- Plaza de aparcamiento número 67, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 66; izquierda, plaza de garaje 68; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de 0,36 por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de 0,23 por ciento"
+          ],
+          "IDUFIR": [
+            "45022001584825"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0078MT"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:67 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "12"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-OCHENTA Y DOS. Plaza de aparcamiento número 71, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 70; izquierda, plaza de garaje 72; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584863"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0082QY"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:71 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "13"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-OCHENTA Y CUATRO. Plaza de aparcamiento número 73, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veinte metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 72; izquierda, plaza de garaje 74; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento"
+          ],
+          "IDUFIR": [
+            "45022001584887"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0084EI"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:73 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "14"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Plaza de aparcamiento número 74, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 73; izquierda, plaza de garaje 75; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584894"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0085RO"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:74 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "15"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-OCHENTA Y SEIS. Plaza de aparcamiento número 75, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con ochenta y cuatro metros cuadrados, una longitud libre de frente de dos con cincuenta y siete metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 74; izquierda, plaza de garaje 76; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584900"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0086TP"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:75 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "16"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-OCHENTA Y NUEVE.- Plaza de aparcamiento número 78, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veinte metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 77; izquierda, plaza de garaje 79; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584931"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0089ID"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:78 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "17"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA.- Plaza de aparcamiento número 79, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 78; izquierda, plaza de garaje 80; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001584948"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0090YA"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:79 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "18"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA Y CUATRO.- Plaza de aparcamiento número 83, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veinte metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 82; izquierda, plaza de garaje 84; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento"
+          ],
+          "IDUFIR": [
+            "45022001584986"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0094PG"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:83 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "19"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA Y SEIS.- Plaza de aparcamiento número 85, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 84; izquierda, plaza de garaje 86; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585006"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0096SJ"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:85 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "20"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA Y SIETE.- Plaza de aparcamiento número 86, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 85; izquierda, plaza de garaje 87; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585013"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0097DK"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:86 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "21"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA Y OCHO.- Plaza de aparcamiento número 87, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 86; izquierda, plaza de garaje 88; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585020"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0098FL"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:87 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "22"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-NOVENTA Y NUEVE.- Plaza de aparcamiento número 88, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veinte metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 87; izquierda, plaza de garaje 89; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585037"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0099GB"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:88 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "23"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIEN.- Plaza de aparcamiento número 89, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 88; izquierda, plaza de garaje 90; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585044"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0100GB"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:89 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "24"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO DOS.- Plaza de aparcamiento número 91, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con ochenta y cuatro metros cuadrados, una longitud libre de frente de dos con cincuenta y ocho metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 90; izquierda, plaza de garaje 92; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585068"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0102JX"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:91 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "25"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TRES.- Plaza de aparcamiento número 92, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con cero tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 91; izquierda, plaza de garaje 93; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y seis por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585075"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0103KM"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:92 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "26"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO NUEVE.- Plaza de aparcamiento número 98, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veintitrés metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cinco con cero tres metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 97; izquierda, plaza de garaje 99; y fondo, muro de cerramiento del edificio a parcela segregada de la matriz, destinada a viales. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585136"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0109QY"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:98 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "27"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO ONCE.- Plaza de aparcamiento número 100, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con cincuenta y cinco metros cuadrados, una longitud libre de frente de dos con cuarenta y cinco metros y fondo de cinco con cincuenta y cinco metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, trasteros del portal 10; izquierda, con plaza de garaje 101; y fondo, con cuartos trasteros del portal 11. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintitrés por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585150"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0111MT"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:100 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "28"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TRECE.- Plaza de aparcamiento número 102, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y seis metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, con plaza de garaje 101; izquierda, con plaza de garaje 103; y fondo, con cuartos trasteros del portal 11. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585174"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0113WU"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:102 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "29"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO DIECISÉIS.- Plaza de aparcamiento número 105, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de once con cuarenta y nueve metros cuadrados, una longitud libre de frente de dos con cincuenta y ocho metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 104; izquierda, con zona de acceso; y fondo, con zona de acceso. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585204"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0116TP"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:105 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "30"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO VEINTE.- Plaza de aparcamiento número 109, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con veintiocho metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cincuenta y cinco metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 108; izquierda, con cuartos trasteros del portal 12; y fondo, con cuartos trasteros del portal 12. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585242"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0120YA"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:109 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "31"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO VEINTIUNO.- Plaza de aparcamiento número 110, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con noventa y seis metros cuadrados, una longitud libre de frente de dos con cuarenta y cinco metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 111; izquierda, con plazas de garaje 56 y 55; y fondo, con plaza de garaje 120. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585341"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0121US"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:110 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "32"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO VEINTIDÓS.- Plaza de aparcamiento número 111, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 112; izquierda, con plaza de garaje 110; y fondo, con plaza de garaje 121. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585266"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0122ID"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:111 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "33"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO VEINTITRÉS.- Plaza de aparcamiento número 112, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 113; izquierda, con plaza de garaje 111; y fondo, con plaza de garaje 122. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiún por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585273"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0123OF"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:112 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "34"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO VEINTICINCO.- Plaza de aparcamiento número 114, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 115; izquierda, con plaza de garaje 113; y fondo, con plaza de garaje 124. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585297"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0125AH"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:114 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "35"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- CIENTO VEINTIOCHO.- Plaza de aparcamiento número 117, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 118; izquierda, con plaza de garaje 116; y fondo, con plaza de garaje 127. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585327"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0128FL"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:117 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "36"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA.- Plaza de aparcamiento número 119, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, con cuartos trasteros del portal 13; izquierda, con plaza de garaje 118; y fondo, con plaza de garaje 129. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585341"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0130DK"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:119 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "37"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y UNO.- Plaza de aparcamiento número 120, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con noventa y seis metros cuadrados, una longitud libre de frente de dos con cuarenta y cinco metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plazas de garaje 54 y 55; izquierda, con plaza de garaje 121; y fondo, con plaza de garaje 110. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585358"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0131FL"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:120 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "38"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y DOS.- Plaza de aparcamiento número 121, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 120; izquierda, con plaza de garaje 122; y fondo, con plaza de garaje 111. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585365"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0132GB"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:121 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "39"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y TRES.- Plaza de aparcamiento número 122, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 121; izquierda, con plaza de garaje 123; y fondo, con plaza de garaje 112. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585372"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0133HZ"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:122 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "40"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y CUATRO.- Plaza de aparcamiento número 123, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de once con setenta y cuatro metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 122; izquierda, con plaza de garaje 124; y fondo, con plaza de garaje 113. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585389"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0134JX"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:123 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "41"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y CINCO.- Plaza de aparcamiento número 124, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 123; izquierda, con plaza de garaje 125; y fondo, con plaza de garaje 114. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585396"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0135KM"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:124 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "42"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y SEIS.- Plaza de aparcamiento número 125, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de once con cuarenta y cinco metros cuadrados, una longitud libre de frente de dos con cincuenta y ocho metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 124; izquierda, con zona de circulación; y fondo, con plaza de garaje 115. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585402"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0136LQ"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:125 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "43"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO TREINTA Y SIETE.- Plaza de aparcamiento número 126, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de once con setenta y cuatro metros cuadrados, una longitud libre de frente de dos con sesenta y cuatro metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, zona de circulación; izquierda, con plaza de garaje 127; y fondo, con plaza de garaje 116. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cinco por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintidós por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585419"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0137BW"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:126 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "44"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CUARENTA.- Plaza de aparcamiento número 129, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de diez con setenta y tres metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cuatro con cincuenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 128; izquierda, con plaza de garaje 130; y fondo, con plaza de garaje 119. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y cuatro por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veintiun por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585440"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0140BW"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:129 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "45"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CUARENTA Y DOS.- Plaza de aparcamiento número 131, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de trece con diecinueve metros cuadrados, una longitud libre de frente de dos con cuarenta y cinco metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 132; izquierda, con cuarto de servicios; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y nueve por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585464"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0142XR"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:131 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "46"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "rbana.-CIENTO CUARENTA Y TRES.- Plaza de aparcamiento número 132, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 133; izquierda, con plaza de garaje 131; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585471"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0143MT"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:132 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "47"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CUARENTA Y CUATRO.- Plaza de aparcamiento número 133, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 134; izquierda, con plaza de garaje 132; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585488"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0144QY"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:133 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "48"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CUARENTA Y SEIS.- Plaza de aparcamiento número 135, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 136; izquierda, con plaza de garaje 134; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585501"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0146EI"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:135 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "49"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CUARENTA Y NUEVE.- Plaza de aparcamiento número 138, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 139; izquierda, con plaza de garaje 137; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento"
+          ],
+          "IDUFIR": [
+            "45022001585532"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0149YA"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:138 45211 RECAS (TOLEDO"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "50"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.-CIENTO CINCUENTA Y UNO.- Plaza de aparcamiento número 140, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 141; izquierda, con plaza de garaje 139; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585556"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0151TP"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:140 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "51"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Garaje)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- Urbana.-CIENTO CINCUENTA Y DOS.- Plaza de aparcamiento número 141, situado en la planta sótano, integrante de la \"FASE I\" en Recas, compuesta de siete portales (designados con los números \"7\", \"8\", \"9\", \"10\", \"11\", \"12\" y \"13\", con fachadas dicha fase a las calle Circunvalación y calle Nueva, con una superficie útil de doce con noventa y dos metros cuadrados, una longitud libre de frente de dos con cuarenta metros y fondo de cinco con cuarenta metros, todas ellas aproximadas. Linda: frente, zona de acceso; derecha entrando, plaza de garaje 142; izquierda, con plaza de garaje 140; y fondo, con local destinado a garajes y trasteros de la Fase II del Conjunto. CUOTAS: Tiene asignado un coeficiente de participación:.1.- En relación a la fase I a la que pertenece de cero con treinta y ocho por ciento. 2.- En relación al conjunto residencial (Fase I y Fase II) de cero con veinticuatro por ciento."
+          ],
+          "IDUFIR": [
+            "45022001585563"
+          ],
+          "Referencia catastral": [
+            "5251004VK1355S0152YA"
+          ],
+          "Dirección": [
+            "CL DULCINEA 9 Es:G Pl:-1 Pt:141 45211 RECAS (TOLEDO)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "RECAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "52"
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 52,
+    "lotes_leidos": 52,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-265843 (52 lotes) Sección Civil e Instrucción TI Illescas. Plz.n 6 - ILLESCAS Expediente: 0031/20 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] Subasta con varios lotes. Lote 1: Registro de la Propiedad De Illescas 3 Número Finca 11.776 Lote 2: Registro de la Propiedad De Illescas 3 Número Finca 12.022 Lote 3: Registro de la Propiedad De Illescas 3 Número Finca 12.023 Lote 4: Registro de la Propiedad De Illescas 3 Número Finca 12.024 Lote 5: Registro de la Propiedad De Illescas 3 Número Finca 12.025 Lote 6: Registro de la Propiedad De Illescas 3 Número Finca 12.030 Lote 7: Registro de la Propiedad De Illescas 3 Número Finca 12.035 Lote 8: Registro de la Propiedad De Illescas 3 Número Finca 11.760 Lote 9: Registro de la Propiedad De Illescas 3 Número Finca 11.933 Lote 10: Registro de la Propiedad De Illescas 3 Número Finca 11.934 Lote 11: Registro de la Propiedad De Illescas 3 Número Finca 11.944 Lote 12: Registro de la Propiedad De Illescas 3 Número Finca 11.945 Lote 13: Registro de la Propiedad De Illescas 3 Número Finca 11.949 Lote 14: Registro de la Propiedad De Illescas 3 Número Finca 11.951 Lote 15: Registro de la Propiedad De Illescas 3 Número Finca 11.952 Lote 16: Registro de la Propiedad De Illescas 3 Número Finca 11.953 Lote 17: Registro de la Propiedad De Illescas 3 Número Finca 11.956 Lote 18: Registro de la Propiedad De Illescas 3 Número Finca 11.957 Lote 19: Registro de la Propiedad De Illescas 3 Número Finca 11.961 Lote 20: Registro de la Propiedad De Illescas 3 Número Finca 11.963 Lote 21: Registro de la Propiedad De Illescas 3 Número Finca 11.964 Lote 22: Registro de la Propiedad De Illescas 3 Número Finca 11.965 Lote 23: Registro de la Propiedad De Illescas 3 Número Finca 11.966 Lote 24: Registro de la Propiedad De Illescas 3 Número Finca 11.967 Lote 25: Registro de la Propiedad De Illescas 3 Número Finca 11.969 Lote 26: Registro de la Propiedad De Illescas 3 Número Finca 11.970 Lote 27: Registro de la Propiedad De Illescas 3 Número Finca 11.976 Lote 28: Registro de la Propiedad De Illescas 3 Número Finca 11.976 Lote 29: Registro de la Propiedad De Illescas 3 Número Finca 11.980 Lote 30: Registro de la Propiedad De Illescas 3 Número Finca 11.983 Lote 31: Registro de la Propiedad De Illescas 3 Número Finca 11.987 Lote 32: Registro de la Propiedad De Illescas 3 Número Finca 11.988 Lote 33: Registro de la Propiedad De Illescas 3 Número Finca 11.989 Lote 34: Registro de la Propiedad De Illescas 3 Número Finca 11.990 Lote 35: Registro de la Propiedad De Illescas 3 Número Finca 11.992 Lote 36: Registro de la Propiedad De Illescas 3 Número Finca 11.995 Lote 37: Registro de la Propiedad De Illescas 3 Número Finca 11.997 Lote 38: Registro de la Propiedad De Illescas 3 Número Finca 11.998 Lote 39: Registro de la Propiedad De Illescas 3 Número Finca 11.999 Lote 40: Registro de la Propiedad De Illescas 3 Número Finca 12.000 Lote 41: Registro de la Propiedad De Illescas 3 Número Finca 12.001 Lote 42: Registro de la Propiedad De Illescas 3 Número Finca 12.002 Lote 43: Registro de la Propiedad De Illescas 3 Número Finca 12.003 Lote 44: Registro de la Propiedad De Illescas 3 Número Finca 12.004 Lote 45: Registro de la Propiedad De Illescas 3 Número Finca 12.007 Lote 46: Registro de la Propiedad De Illescas 3 Número Finca 12.009 Lote 47: Registro de la Propiedad De Illescas 3 Número Finca 12.010 Lote 48: Registro de la Propiedad De Illescas 3 Número Finca 12.011 Lote 49: Registro de la Propiedad De Illescas 3 Número Finca 12.013 Lote 50: Registro de la Propiedad De Illescas 3 Número Finca 12.016 Lote 51: Registro de la Propiedad De Illescas 3 Número Finca 12.018 Lote 52: Registro de la Propiedad De Illescas 3 Número Finca 12.019 Más... (Referencia SUB-JA-2026-265843)"
+  },
+  {
+    "referencia": "SUB-JA-2026-266536",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266536",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-266536"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4311 0000 06 0249 22"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "30.045,40 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32909"
+      ],
+      "Valor subasta": [
+        "31.229,63 €"
+      ],
+      "Tasación": [
+        "31.229,63 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "624,59 €"
+      ],
+      "Importe del depósito": [
+        "1.561,48 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4516541003"
+      ],
+      "Descripción": [
+        "Sección Civil e Instruc TI Talavera de la Reina. Plz.n 3"
+      ],
+      "Dirección": [
+        "CL MERIDA 9 9 ; 45600 TALAVERA DE LA REINA"
+      ],
+      "Teléfono": [
+        "925727418"
+      ],
+      "Fax": [
+        "925820561"
+      ],
+      "Correo electrónico": [
+        "mixto3.talaveradelareina@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "Piso vivienda que se identifica por PISO PRIMERO EXTERIOR, LETRA C, sito en la planta primera sobre la baja, de un edificio en esta ciudad de Talavera de la Reina, entre las calles de Francisco Pizarro y calle de nueva creación, con entrada por el portal de la calle nueva, hoy denominada PEPINO, y señalada con el número siete. Ocupa una superficie útil aproximada de sesenta y nueve metros ochenta y tres decímetros cuadrados, y consta de vestíbulo, pasillo, estar-comedor, tres dormitorios, cocina, aseo, dos terrazas una interior y otra exterior."
+          ],
+          "IDUFIR": [
+            "45015000084465"
+          ],
+          "Referencia catastral": [
+            "3057001UK4235N011DR"
+          ],
+          "Dirección": [
+            "C/Pepino nº 7"
+          ],
+          "Código Postal": [
+            "45600"
+          ],
+          "Localidad": [
+            "Talavera de la Reina"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Vivienda habitual": [
+            "No"
+          ],
+          "Situación posesoria": [
+            "No consta (Compraventa mediante escritura otorgada ante notario)"
+          ],
+          "Visitable": [
+            "No"
+          ],
+          "Cargas": [
+            "Las que en la certificación registral están de ver."
+          ],
+          "Inscripción registral": [
+            "Finca registral nº 13980 del Registro de la Propiedad nº 3 de Talavera de la Reina, inscrita al Tomo 1055, Folio 33, Libro 247, Inscripción 3ª."
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [
+      {
+        "titulo": "Certificación Registral",
+        "url": "https://subastas.boe.es/verDocumento.php?idSub=SUB-JA-2026-266536&idDoc=2-42e365ce0143907b3b662c9bad46ee88"
+      }
+    ],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-266536 Sección Civil e Instruc TI Talavera de la Reina. Plz.n 3 - TALAVERA DE LA REINA Expediente: 0249/22 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] Piso vivienda que se identifica por PISO PRIMERO EXTERIOR, LETRA C, sito en la planta primera sobre la baja, de un edificio en esta ciudad de Talavera de la Reina, entre las calles de Francisco Pizarro y calle de nueva creación, con entrada por el portal de la calle nueva, hoy denominada PEPINO, y señalada con el número siete. Ocupa una superficie útil aproximada de sesenta y nueve metros ochenta y tres decímetros cuadrados, y consta de vestíbulo, pasillo, estar-comedor, tres dormitorios, cocina, aseo, dos terrazas una interior y otra exterior. Más... (Referencia SUB-JA-2026-266536)"
+  },
+  {
+    "referencia": "SUB-JA-2026-267093",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267093",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-267093"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4291 0000 06 0136 22"
+      ],
+      "Fecha de inicio": [
+        "13-10-2026 18:00:00 CET (ISO: 2026-10-13T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "02-11-2026 18:00:00 CET (ISO: 2026-11-02T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "220.954,36 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32882"
+      ],
+      "Valor subasta": [
+        "294.200,00 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "5.884,00 €"
+      ],
+      "Importe del depósito": [
+        "14.710,00 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141002"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 2"
+      ],
+      "Dirección": [
+        "CL HERNAN CORTES 7 7 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542389"
+      ],
+      "Fax": [
+        "925513508"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA.- Solar A, en término de RECAS, en la calle Sur 8. Ocupa una extensión superficial de doscientos cincuenta y nueve metros cuadrados. Linda por su frente, con la calle de su situación; derecha entrando y espalda, resto de finca matriz de la que se segrega; e izquierda, Emilio Bravo."
+          ],
+          "Dirección": [
+            "calle Sur, 2(D)"
+          ],
+          "Código Postal": [
+            "45211"
+          ],
+          "Localidad": [
+            "Recas"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-267093 Sección Civil e Instrucción TI Illescas. Plz.n 2 - ILLESCAS Expediente: 0136/22 Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00] Finca núm. 9909 de Recas, inscrita en el Registro de la Propiedad núm. 1 de Illescas, al tomo 2232, libro 93, folio 97. Más... (Referencia SUB-JA-2026-267093)"
+  },
+  {
+    "referencia": "SUB-JA-2026-265333",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265333",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-265333"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "3260 0000 06 0226 19"
+      ],
+      "Fecha de inicio": [
+        "08-10-2026 18:00:00 CET (ISO: 2026-10-08T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "28-10-2026 18:00:00 CET (ISO: 2026-10-28T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "2.262.333,94 €"
+      ],
+      "Lotes": [
+        "14"
+      ],
+      "Forma adjudicación": [
+        "Separada para cada lote"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-32161"
+      ],
+      "Valor subasta": [
+        "Ver valor de subasta en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Tasación": [
+        "Ver valor de tasación en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Puja mínima": [
+        "Ver puja mínima de cada lote (adjudicación independiente)"
+      ],
+      "Tramos entre pujas": [
+        "Ver tramos de cada lote (adjudicación independiente)"
+      ],
+      "Importe del depósito": [
+        "Ver importe de consignación de cada lote (adjudicación independiente)"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141004"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 4"
+      ],
+      "Dirección": [
+        "CL BAJADA DE LA FUENTE 12 11 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542389"
+      ],
+      "Fax": [
+        "925514912"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Local comercial)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 3 ¿ Local Comercial Duplex, planta sótano y baja del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479846"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "1"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 5 ¿ Vivienda Número V-1, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479860"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "2"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 6 ¿ Vivienda Número V-2, plantas primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479877"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "3"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 7 ¿ Vivienda Número V-3, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479884"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "4"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 8 ¿ Vivienda Número V-4, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479891"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "5"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 9 ¿ Vivienda Número V-5, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479907"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "6"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 10 ¿ Vivienda Número V-6, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479914"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "7"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 11 ¿ Vivienda Número V-7, planta primera del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479921"
+          ],
+          "Dirección": [
+            "CALLE RAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "8"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 12 ¿ Vivienda Número V-8, plantas segunda del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479938"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "9"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 13 ¿ Vivienda Dúplex Número V-9, plantas segunda y de ático del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479945"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "10"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 14 ¿ Vivienda Dúplex Número V-10, plantas segunda y de ático del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479952"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YINCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "11"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 15 ¿ Vivienda Dúplex Número V-11, plantas segunda y de ático del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479969"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "12"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 16 ¿ Vivienda Dúplex Número V-12, plantas segunda y de ático del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479976"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "13"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA, Nº 17 ¿ Vivienda Número V-13, planta segunda del edificio sito en Yuncos, C/ Real nº 149."
+          ],
+          "IDUFIR": [
+            "45013001479983"
+          ],
+          "Dirección": [
+            "CALLE REAL, 149"
+          ],
+          "Código Postal": [
+            "45210"
+          ],
+          "Localidad": [
+            "YUNCOS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "14"
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 14,
+    "lotes_leidos": 14,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-265333 (14 lotes) Sección Civil e Instrucción TI Illescas. Plz.n 4 - ILLESCAS Expediente: 0226/19 Estado: Celebrándose - [Conclusión prevista: 28/10/2026 a las 18:00:00] Subasta con varios lotes. Lote 1: FINCA 15032 Lote 2: FINCA 15034 Lote 3: FINCA 15035 Lote 4: FINCA 15036 Lote 5: FINCA 15037 Lote 6: FINCA 15038 Lote 7: FINCA 15039 Lote 8: FINCA 15040 Lote 9: FINCA 15041 Lote 10: FINCA 15042 Lote 11: FINCA 15043 Lote 12: FINCA 15044 Lote 13: FINCA 15045 Lote 14: FINCA 15046 Más... (Referencia SUB-JA-2026-265333)"
+  },
+  {
+    "referencia": "SUB-JA-2026-265242",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265242",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-265242"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "3260 0000 06 0706 17"
+      ],
+      "Fecha de inicio": [
+        "06-10-2026 18:00:00 CET (ISO: 2026-10-06T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "26-10-2026 18:00:00 CET (ISO: 2026-10-26T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "194.386,06 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-31936"
+      ],
+      "Valor subasta": [
+        "332.075,00 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "6.641,50 €"
+      ],
+      "Importe del depósito": [
+        "16.603,75 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141004"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 4"
+      ],
+      "Dirección": [
+        "CL BAJADA DE LA FUENTE 12 11 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542389"
+      ],
+      "Fax": [
+        "925514912"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "Urbana.- Número Cuatrocientos cincuenta y seis. Vivienda terminada, puerta A, planta primera portal Nueve, tipo I, del bloque Cuarenta y ocho-Uno sito en la Manzana Cuarenta y ocho-Uno y Cuarenta y ocho- Dos del SAU \"El Quiñón\" de las normas subsidiarias del municipio de Seseña."
+          ],
+          "IDUFIR": [
+            "45013001063755"
+          ],
+          "Dirección": [
+            "CL LEONARDO DA VINCI, 4, Bl. 1, Es. 9, 1ºA"
+          ],
+          "Código Postal": [
+            "45224"
+          ],
+          "Localidad": [
+            "SESEÑA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-265242 Sección Civil e Instrucción TI Illescas. Plz.n 4 - ILLESCAS Expediente: 0706/17 Estado: Celebrándose - [Conclusión prevista: 26/10/2026 a las 18:00:00] Finca número 15187, registro de la propiedad de Illescas número 1, tomo 1083, libro 209, folio 16, inscripción 1ª. Más... (Referencia SUB-JA-2026-265242)"
+  },
+  {
+    "referencia": "SUB-JA-2026-265519",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265519",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-265519"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "2373 0000 06 0139 20"
+      ],
+      "Fecha de inicio": [
+        "06-10-2026 18:00:00 CET (ISO: 2026-10-06T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "26-10-2026 18:00:00 CET (ISO: 2026-10-26T18:00:00+01:00)"
+      ],
+      "Cantidad reclamada": [
+        "154.465,79 €"
+      ],
+      "Lotes": [
+        "2"
+      ],
+      "Forma adjudicación": [
+        "Separada para cada lote"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-31987"
+      ],
+      "Valor subasta": [
+        "Ver valor de subasta en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Tasación": [
+        "Ver valor de tasación en cada lote (los lotes se subastan de forma independiente)"
+      ],
+      "Puja mínima": [
+        "Ver puja mínima de cada lote (adjudicación independiente)"
+      ],
+      "Tramos entre pujas": [
+        "Ver tramos de cada lote (adjudicación independiente)"
+      ],
+      "Importe del depósito": [
+        "Ver importe de consignación de cada lote (adjudicación independiente)"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "2805842001"
+      ],
+      "Descripción": [
+        "Sección Civil TI Fuenlabrada. Plz. n 1"
+      ],
+      "Dirección": [
+        "CL RUMANIA 2 2 ; 28943 FUENLABRADA"
+      ],
+      "Teléfono": [
+        "915580030"
+      ],
+      "Fax": [
+        "915580045"
+      ],
+      "Correo electrónico": [
+        "alvaro.perea@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "Finca Urbana de Fuenlabrada (Madrid) nº 23.544 del Registro de la Propiedad Nº 1de Fuenlabrada, inscrita al tomo 1356, libro 239, folio 196, inscripción 3ª. sita en la C/ Leganés nº 41-, planta 3ª-B C.P. 28945 de Fuenlabrada (Madrid"
+          ],
+          "Dirección": [
+            "Calle Leganés 41 3ºB"
+          ],
+          "Código Postal": [
+            "28945"
+          ],
+          "Localidad": [
+            "FUENLABRADA"
+          ],
+          "Provincia": [
+            "Madrid"
+          ],
+          "Vivienda habitual": [
+            "No"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "1"
+      },
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "Finca nº 2.642 del Registro de la Propiedad Nº 1 de Puente del Arzobispo (Toledo), inscrita al tomo 866, libro 23, folio 2 ,inscripción 1ª., sita en Herreruela de Oropesa (Toledo) , casa en el casco urbano del pueblo en la C/ Don Urbano Yuste"
+          ],
+          "Dirección": [
+            "Calle Don Urbano de Yuste"
+          ],
+          "Código Postal": [
+            "45588"
+          ],
+          "Localidad": [
+            "HERRERUELA DE OROPESA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Vivienda habitual": [
+            "No"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        },
+        "lote": "2"
+      }
+    ],
+    "documentos_publicos": [
+      {
+        "titulo": "CERTIFICACIÓN 1",
+        "url": "https://subastas.boe.es/verDocumento.php?idSub=SUB-JA-2026-265519&idDoc=2-55c18d03454bb35c0cd722712cbbebe4"
+      },
+      {
+        "titulo": "CERTIFICACIÓN 2",
+        "url": "https://subastas.boe.es/verDocumento.php?idSub=SUB-JA-2026-265519&idDoc=3-c2879ec526b89f84560354b3a2eee52c"
+      }
+    ],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 2,
+    "lotes_leidos": 2,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-265519 (2 lotes) Sección Civil TI Fuenlabrada. Plz. n 1 - FUENLABRADA Expediente: 0139/20 Estado: Celebrándose - [Conclusión prevista: 26/10/2026 a las 18:00:00] Subasta con varios lotes. Lote 1: 1.-Finca Urbana de Fuenlabrada (Madrid) nº 23.544 del Registro de la Propiedad Nº 1de Fuenlabrada, inscrita al tomo 1356, libro 239, folio 196, inscripción 3ª. sita en la C/ Leganés nº 49-, planta 3ª-B C.P. 28945 de Fuenlabrada (Madrid Lote 2: Finca nº 2.642 del Registro de la Propiedad Nº 1 de Puente del Arzobispo (Toledo), inscrita al tomo 866, libro 23, folio 2 ,inscripción 1ª., sita en Herreruela de Oropesa (Toledo) , casa en el casco urbano del pueblo en la C/ Don Urbano Yuste Más... (Referencia SUB-JA-2026-265519)"
+  },
+  {
+    "referencia": "SUB-JA-2026-266790",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266790",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-266790"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "5378 0000 06 0552 21"
+      ],
+      "Fecha de inicio": [
+        "01-10-2026 18:00:00 CET (ISO: 2026-10-01T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "21-10-2026 18:00:00 CET (ISO: 2026-10-21T18:00:00+02:00)"
+      ],
+      "Cantidad reclamada": [
+        "169.560,20 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-31297"
+      ],
+      "Valor subasta": [
+        "290.271,33 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "5.805,43 €"
+      ],
+      "Importe del depósito": [
+        "14.513,57 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141007"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 7"
+      ],
+      "Dirección": [
+        "CL DE LAS MONJAS 6 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542389"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA. - FINCA NUMERO DOS. - VIVIENDA situada en la planta primera del edificio en Añover de Tajo, en la calle Miguel de Unamuno número DIECISEIS, con entrada independiente desde el jardín del edificio a través de una escalera que arranca del mismo."
+          ],
+          "Referencia catastral": [
+            "4675018VK3247N0001LD"
+          ],
+          "Dirección": [
+            "calle Miguel de Unamuno, 16"
+          ],
+          "Código Postal": [
+            "45250"
+          ],
+          "Localidad": [
+            "Añover de Tajo"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-266790 Sección Civil e Instrucción TI Illescas. Plz.n 7 - ILLESCAS Expediente: 0552/21 Estado: Celebrándose - [Conclusión prevista: 21/10/2026 a las 18:00:00] URBANA. - FINCA NUMERO DOS. - VIVIENDA situada en la planta primera del edificio en Añover de Tajo, en la calle Miguel de Unamuno número DIECISEIS, con entrada independiente desde el jardín del edificio a través de una escalera que arranca del mismo. Más... (Referencia SUB-JA-2026-266790)"
+  },
+  {
+    "referencia": "SUB-AT-2026-26R4586001145",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4586001145",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-AT-2026-26R4586001145"
+      ],
+      "Tipo de subasta": [
+        "AGENCIA TRIBUTARIA"
+      ],
+      "Fecha de inicio": [
+        "29-09-2026 18:00:00 CET (ISO: 2026-09-29T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "19-10-2026 18:00:00 CET (ISO: 2026-10-19T18:00:00+02:00)"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-31191"
+      ],
+      "Valor subasta": [
+        "14.438,58 €"
+      ],
+      "Tasación": [
+        "14.438,58 €"
+      ],
+      "Puja mínima": [
+        "1.443,85 €"
+      ],
+      "Tramos entre pujas": [
+        "500,00 €"
+      ],
+      "Importe del depósito": [
+        "721,92 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "R45860"
+      ],
+      "Descripción": [
+        "U.R. SUBASTAS CASTILLA-MANCHA (AEAT)"
+      ],
+      "Dirección": [
+        "PZ TENDILLAS 1 ; 45002 TOLEDO"
+      ],
+      "Teléfono": [
+        "913335333"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "subastas.castillalamancha@correo.aeat.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Solar)",
+        "campos": {
+          "Descripción": [
+            "SOLAR LOCALIZACIÓN: CALLE FRAGUAS VIEJAS SN SUPERFICIES: TERRENO: DOS MIL OCHOCIENTOS CINCUENTA Y SEIS METROS CUADRADOS LINDEROS: NORTE, VENANCIO RODRIGUEZ SUR, CALLEJON PUBLICO, HOY CALLE DE LAS FRAGUAS VIEJAS ESTE, CECILIO RIOS Y MARIANO FERNANDEZ OESTE, NICOLAS COLILLA"
+          ],
+          "IDUFIR": [
+            "45016000469924"
+          ],
+          "Referencia catastral": [
+            "45182A005000640000BY"
+          ],
+          "Dirección": [
+            "CL FRAGUAS VIEJAS 0"
+          ],
+          "Código Postal": [
+            "45612"
+          ],
+          "Localidad": [
+            "VELADA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ],
+          "Cargas": [
+            "0,00 €"
+          ],
+          "Inscripción registral": [
+            "BIEN INSCRITO EN REGISTRO NÚM. 2 DE TALAVERA DE LA REINA TOMO: 1582 , FOLIO: 188 , LIBRO: 30. FINCA: 1651 , INSCRIPCIÓN: 7"
+          ],
+          "Título jurídico": [
+            "PLENO DOMINIO"
+          ],
+          "Información adicional": [
+            "OTRAS CARGAS: Afecciones legales y registrales. SIN CARGAS: Se ejecuta por la anotacion de embargo 452123322385C a favor de la Hacienda Publica con letra C y prorrogada por la letra D. En caso de adjudicacion, se cancelan ambas anotaciones."
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-AT-2026-26R4586001145 U.R. SUBASTAS CASTILLA-MANCHA - TOLEDO (AEAT) Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00] SOLAR. CL FRAGUAS VIEJAS S/N VELADA TOLEDO Más... (Referencia SUB-AT-2026-26R4586001145)"
+  },
+  {
+    "referencia": "SUB-AT-2026-26R4586001178",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4586001178",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-AT-2026-26R4586001178"
+      ],
+      "Tipo de subasta": [
+        "AGENCIA TRIBUTARIA"
+      ],
+      "Fecha de inicio": [
+        "29-09-2026 18:00:00 CET (ISO: 2026-09-29T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "19-10-2026 18:00:00 CET (ISO: 2026-10-19T18:00:00+02:00)"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-31197"
+      ],
+      "Valor subasta": [
+        "136.747,48 €"
+      ],
+      "Tasación": [
+        "227.912,47 €"
+      ],
+      "Puja mínima": [
+        "13.674,75 €"
+      ],
+      "Tramos entre pujas": [
+        "2.000,00 €"
+      ],
+      "Importe del depósito": [
+        "6.837,37 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "R45860"
+      ],
+      "Descripción": [
+        "U.R. SUBASTAS CASTILLA-MANCHA (AEAT)"
+      ],
+      "Dirección": [
+        "PZ TENDILLAS 1 ; 45002 TOLEDO"
+      ],
+      "Teléfono": [
+        "913335333"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "subastas.castillalamancha@correo.aeat.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Solar)",
+        "campos": {
+          "Descripción": [
+            "URBANA SOLAR EN VILLANUEVA DE BOGAS, CALLE TOLEDO, Nº26. SUPERCICIE TERRENO 2.917 M2. LINDEROS: FRENTE, CALLE TOLEDO FONDO, RESTO FINCA MATRIZ QUE SE RESERVA LA VENDEDORA, CONCEPCIÓN SÁNCHEZ GONZÁLEZ BUITRAGO: DERECHA, MARCIAL MAJANDO IZQUIERDA, CALLE DE LA FUENTE. TERRENO EN VILLANUEVA DE BOGAS, CALLE TOLEDO, Nº 26, ESQUINA A LA CALLE DE LA FUENTE, Nº 27. EN CUANTO AL 100% PLENO DOMINIO"
+          ],
+          "IDUFIR": [
+            "45007000733085"
+          ],
+          "Referencia catastral": [
+            "3672926VJ4937S0001EE"
+          ],
+          "Dirección": [
+            "CL TOLEDO 26"
+          ],
+          "Código Postal": [
+            "45410"
+          ],
+          "Localidad": [
+            "VILLANUEVA DE BOGAS"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ],
+          "Cargas": [
+            "0,00 €"
+          ],
+          "Inscripción registral": [
+            "BIEN INSCRITO EN REGISTRO DE ORGAZ TOMO: 1459 , FOLIO: 123 , LIBRO: 69. FINCA: 6974 , INSCRIPCIÓN: 1"
+          ],
+          "Título jurídico": [
+            "PLENO DOMINIO"
+          ],
+          "Información adicional": [
+            "OTRAS CARGAS: Afecciones legales y registrales. SIN CARGAS. La hipoteca a favor de la AEAT esta cancelada. Se ejecuta por la anotacion de embargo a favor de la AEAT letra B y diligencia 451923303344L, prorrogada por la anotacion letra D. En caso de adjudicacion se cancela, al igual que las cargas posteriores (embargo a favor de Ayuntamientos con anotacion letra C )"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-AT-2026-26R4586001178 U.R. SUBASTAS CASTILLA-MANCHA - TOLEDO (AEAT) Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00] SOLAR. CL TOLEDO 26 VILLANUEVA DE BOGAS (TOLEDO) Más... (Referencia SUB-AT-2026-26R4586001178)"
+  },
+  {
+    "referencia": "SUB-JA-2026-266546",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266546",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-266546"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "4958 0000 06 0181 15"
+      ],
+      "Fecha de inicio": [
+        "29-09-2026 18:00:00 CET (ISO: 2026-09-29T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "19-10-2026 18:00:00 CET (ISO: 2026-10-19T18:00:00+02:00)"
+      ],
+      "Cantidad reclamada": [
+        "105.013,16 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-30986"
+      ],
+      "Valor subasta": [
+        "199.407,52 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "3.988,15 €"
+      ],
+      "Importe del depósito": [
+        "9.970,38 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141006"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 6"
+      ],
+      "Dirección": [
+        "CL BOROX 3 3 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925514632"
+      ],
+      "Fax": [
+        "-"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "URBANA. - Solar en el casco de Pantoja, y su Plaza del General Mola número dos. Ocupa una superficie de ciento veintiocho metros cuadrados, si bien según reciente medición hoy ocupa una superficie de ciento treinta metros, setenta decímetros cuadrados. Linda por su Frente, dicha Plaza; Derecha entrando, Izquierda y Espalda, herederos de Alejandro Guío. Sobre este solar se está construyendo, con sus mismos linderos, la siguiente edificación: Edificio para local de jardín de recreo y café, que consta de una sola planta, denominada baja. Se distribuye en salón multiusos, área de juegos, barra, bar, cocina, almacén y tres aseos, con una superficie útil de ciento dieciséis metros, cuarenta y siete decímetros cuadrados, y una superficie construida de ciento treinta metros, setenta decímetros cuadrados, ocupando toda la superficie de la parcela. Sus linderos son los mismos del solar donde se está construyendo. LIBRO 65,TOMO 2202, FOLIO 87. VALOR DE TASACIÓN A EFECTOS DE SUBASTA: 199.407,52 EUROS. NO TIENE CONSIDERACION DE VIVIENDA HABITUAL, SALVO PRUEBA EN CONTRARIO. NO CONSTA SITUACION POSESORIA NO CONSTA REFENCIA CATASTRAL."
+          ],
+          "Dirección": [
+            "Plaza JUAN PABLO II, Nº 4 de Pantoja (Toledo) 45290."
+          ],
+          "Código Postal": [
+            "45290"
+          ],
+          "Localidad": [
+            "PANTOJA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ],
+          "Información adicional": [
+            "DIRECCIÓN FINCA A SUBASTAR: Plaza del General Mola número dos, de Pantoja - (Toledo) 45290, ACTUAL: Plaza JUAN PABLO II, Nº 4 de Pantoja (Toledo) 45290"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-266546 Sección Civil e Instrucción TI Illescas. Plz.n 6 - ILLESCAS Expediente: 0181/15 Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00] Finca registral n º. 4731 inscrita en el Registro de la Propiedad N.3 Más... (Referencia SUB-JA-2026-266546)"
+  },
+  {
+    "referencia": "SUB-JA-2026-266570",
+    "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266570",
+    "datos_subasta": {
+      "Identificador": [
+        "SUB-JA-2026-266570"
+      ],
+      "Tipo de subasta": [
+        "JUDICIAL EN VÍA DE APREMIO"
+      ],
+      "Cuenta expediente": [
+        "3942 0000 06 0303 19"
+      ],
+      "Fecha de inicio": [
+        "29-09-2026 18:00:00 CET (ISO: 2026-09-29T18:00:00+02:00)"
+      ],
+      "Fecha de conclusión": [
+        "19-10-2026 18:00:00 CET (ISO: 2026-10-19T18:00:00+02:00)"
+      ],
+      "Cantidad reclamada": [
+        "66.935,48 €"
+      ],
+      "Lotes": [
+        "Sin lotes"
+      ],
+      "Anuncio BOE": [
+        "BOE-B-2026-30985"
+      ],
+      "Valor subasta": [
+        "151.340,00 €"
+      ],
+      "Tasación": [
+        "0,00 €"
+      ],
+      "Puja mínima": [
+        "Sin puja mínima"
+      ],
+      "Tramos entre pujas": [
+        "3.026,80 €"
+      ],
+      "Importe del depósito": [
+        "7.567,00 €"
+      ]
+    },
+    "autoridad_gestora": {
+      "Código": [
+        "4508141005"
+      ],
+      "Descripción": [
+        "Sección Civil e Instrucción TI Illescas. Plz.n 5"
+      ],
+      "Dirección": [
+        "CL TALAVERA 11 11 ; 45200 ILLESCAS"
+      ],
+      "Teléfono": [
+        "925542869"
+      ],
+      "Fax": [
+        "925514554"
+      ],
+      "Correo electrónico": [
+        "scej.illescas@justicia.es"
+      ]
+    },
+    "bienes": [
+      {
+        "titulo": "Bien 1 - Inmueble (Vivienda)",
+        "campos": {
+          "Descripción": [
+            "INSCRIPCIÓN: Inscrita en el Registro de la Propiedad nº 1 de Illescas, al Tomo 1805, Libro 650, folio 179, Finca registral nº 2430, inscripción 7ª"
+          ],
+          "Referencia catastral": [
+            "7068414VK2376N0002ZW"
+          ],
+          "Dirección": [
+            "Avenida de la Sagra, Nº 118, C.P. 45230, Numancia de la Sagra (Toledo)"
+          ],
+          "Código Postal": [
+            "45230"
+          ],
+          "Localidad": [
+            "NUMANCIA DE LA SAGRA"
+          ],
+          "Provincia": [
+            "Toledo"
+          ],
+          "Situación posesoria": [
+            "No consta"
+          ],
+          "Visitable": [
+            "No consta"
+          ],
+          "Inscripción registral": [
+            "URBANA.- Vivienda en planta baja en término de Numancia de la Sagra en la Avenida de la Sagra nº 118, catastrada como calle Queipo de Llano nº 84, inscrita en el Registro de la Propiedad nº 1 de Illescas, al Tomo 1805, Libro 650, folio 179, Finca registral nº 2430, inscripción 7ª"
+          ],
+          "Información adicional": [
+            "SITUACIÓN POSESORIA DE LA FINCA; DESCONOCIDA. VIVIENDA HABITUAL: NO"
+          ]
+        }
+      }
+    ],
+    "documentos_publicos": [],
+    "pestanas": {
+      "general": {
+        "http_status": 200,
+        "readable": true
+      },
+      "authority": {
+        "http_status": 200,
+        "readable": true
+      },
+      "goods": {
+        "http_status": 200,
+        "readable": true
+      },
+      "related": {
+        "http_status": 200,
+        "readable": true
+      },
+      "bids": {
+        "http_status": 200,
+        "readable": true
+      }
+    },
+    "lotes_declarados": 0,
+    "lotes_leidos": 0,
+    "cobertura_publica_completa": true,
+    "resumen_busqueda": "SUBASTA SUB-JA-2026-266570 Sección Civil e Instrucción TI Illescas. Plz.n 5 - ILLESCAS Expediente: 0303/19 Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00] URBANA.- Vivienda en planta baja en término de Numancia de la Sagra en la Avenida de la Sagra nº 118, catastrada como calle Queipo de Llano nº 84, inscrita en el Registro de la Propiedad nº 1 de Illescas, al Tomo 1805, Libro 650, folio 179, Finca registral nº 2430, inscripción 7ª Más... (Referencia SUB-JA-2026-266570)"
+  }
+]
