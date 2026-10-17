@@ -8,6 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 from enrich import enrich
 from normalize import normalize, coverage
+from diagnostics import diagnose
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -114,8 +115,9 @@ status["portal_details"] = {
 candidates = normalize(candidates)
 status["coverage"] = coverage(status["sources"], status["portal_details"])
 status["candidate_listings"] = len(candidates)
+(DATA / "diagnostics.json").write_text(json.dumps(diagnose(status, candidates), ensure_ascii=False, indent=2), encoding="utf-8")
 (DATA / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=2), encoding="utf-8")
 (DATA / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
-for name in ("candidates.json", "status.json", "results.json"):
+for name in ("candidates.json", "status.json", "results.json", "diagnostics.json"):
     shutil.copyfile(DATA / name, WEB / name)
 print(json.dumps(status, ensure_ascii=False))
