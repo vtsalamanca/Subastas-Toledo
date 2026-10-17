@@ -21,14 +21,26 @@ AUCTION = re.compile(r"https://subastas\.boe\.es/ds\.php\?id=SUB-[A-Z0-9-]+")
 LOCAL = re.compile(r"\b(?:TOLEDO|NAMBROCA|BURGUILLOS|BURGUILLOS DE TOLEDO|COBISA|ARG[EÉ]S|OL[IÍ]AS DEL REY|BARGAS|AZUCAICA)\b", re.I)
 
 def crawl_ids(obj, out):
-    if isinstance(obj, dict):
-        for k, v in obj.items():
-            if k in ("id", "identificador") and isinstance(v, str) and PATTERN.fullmatch(v):
-                out.add(v)
-            crawl_ids(v, out)
-    elif isinstance(obj, list):
-        for x in obj:
-            crawl_ids(x, out)
+    """Solo anuncios de secciones IV y V-B, no todo el BOE."""
+    def visit(node, eligible=False):
+        if isinstance(node, dict):
+            name = str(node.get("nombre", node.get("titulo", ""))).lower()
+            code = str(node.get("codigo", "")).upper()
+            if ("sección iv" in name or "sección cuarta" in name or "administración de justicia" in name or "otros anuncios oficiales" in name or code in ("4", "IV", "5B", "V-B")):
+                eligible = True
+            if "sección" in name and not any(x in name for x in ("iv", "cuarta", "administración de justicia", "otros anuncios oficiales")):
+                eligible = False
+            if eligible:
+                for k in ("identificador", "id"):
+                    v = node.get(k)
+                    if isinstance(v, str) and PATTERN.fullmatch(v):
+                        out.add(v)
+            for value in node.values():
+                visit(value, eligible)
+        elif isinstance(node, list):
+            for value in node:
+                visit(value, eligible)
+    visit(obj)
 
 def collect_boe():
     ids = set()
@@ -45,8 +57,8 @@ def collect_boe():
             crawl_ids(res.json(), ids)
         except (requests.RequestException, ValueError) as exc:
             errors.append(date + ": " + str(exc)[:150])
-    if not ids and errors:
-        raise RuntimeError("; ".join(errors[:3]))
+    if not ids:
+        raise RuntimeError("Sin identificadores extraídos: comprobar estructura de la API. " + "; ".join(errors[:3]))
     candidates = []
     for boe_id in sorted(ids):
         try:
