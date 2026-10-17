@@ -18,7 +18,7 @@ SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": "Subastas-Toledo/0.2 (+https://github.com/vtsalamanca/Subastas-Toledo)", "Accept": "application/json"})
 PATTERN = re.compile(r"BOE-B-\d{4}-\d+")
 AUCTION = re.compile(r"https://subastas\.boe\.es/ds\.php\?id=SUB-[A-Z0-9-]+")
-LOCAL = re.compile(r"\b(?:TOLEDO|NAMBROCA|BUR GUILLOS|BUR GUILLOS DE TOLEDO|COBISA|ARG[EÉ]S|OL[IÍ]AS DEL REY|BARGAS|AZUCAICA)\b", re.I)
+LOCAL = re.compile(r"\b(?:TOLEDO|NAMBROCA|BURGUILLOS|BURGUILLOS DE TOLEDO|COBISA|ARG[EÉ]S|OL[IÍ]AS DEL REY|BARGAS|AZUCAICA)\b", re.I)
 
 def crawl_ids(obj, out):
     if isinstance(obj, dict):
