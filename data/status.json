@@ -1,1 +1,24 @@
-{"last_run":null,"sources":[],"note":"No se ha realizado ninguna consulta todavía."}
+{
+  "last_run": "2026-10-17T08:41:28.895384+00:00",
+  "sources": [
+    {
+      "id": "boe_subastas",
+      "status": "checked_announcements",
+      "reason": "Anuncios BOE, no viviendas verificadas",
+      "documents_scanned": 758,
+      "errors": []
+    },
+    {
+      "id": "hacienda",
+      "status": "not_checked",
+      "reason": "Adaptador pendiente"
+    },
+    {
+      "id": "segipsa",
+      "status": "not_checked",
+      "reason": "Adaptador pendiente"
+    }
+  ],
+  "verified_listings": 0,
+  "candidate_listings": 3
+}
