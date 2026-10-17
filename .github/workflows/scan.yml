@@ -1,5 +1,11 @@
 name: Comprobar fuentes de subastas
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'sources.json'
+      - '.github/workflows/scan.yml'
   workflow_dispatch:
   schedule:
     - cron: '20 6 * * *'
