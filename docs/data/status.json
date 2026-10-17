@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-17T08:41:28.895384+00:00",
+  "last_run": "2026-10-17T08:51:13.797147+00:00",
   "sources": [
     {
       "id": "boe_subastas",
@@ -20,5 +20,11 @@
     }
   ],
   "verified_listings": 0,
-  "candidate_listings": 3
+  "candidate_listings": 526,
+  "portal_details": {
+    "attempted": 526,
+    "readable": 526,
+    "failed": 0,
+    "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada"
+  }
 }
