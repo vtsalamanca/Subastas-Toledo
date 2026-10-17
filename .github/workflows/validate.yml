@@ -11,6 +11,8 @@ permissions:
 jobs:
   tests:
     runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Madrid
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,6 +41,5 @@ jobs:
           path: |
             data/status.json
             data/diagnostics.json
-            data/results.json
           if-no-files-found: error
           retention-days: 30
