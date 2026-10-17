@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 import requests
 from bs4 import BeautifulSoup
+from enrich import enrich
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -101,6 +102,15 @@ for source in SOURCES:
         status["sources"].append({"id": source["id"], "status": "partial" if errors else "checked_announcements", "reason": "Anuncios BOE, no viviendas verificadas", "documents_scanned": scanned, "errors": errors[:10]})
     except Exception as exc:
         status["sources"].append({"id": source["id"], "status": "error", "reason": str(exc)[:400]})
+# Fichas oficiales: lectura preliminar, sin certificar viviendas.
+for i, candidate in enumerate(candidates[:30]):
+    candidates[i] = enrich(candidate, SESSION)
+status["portal_details"] = {
+    "attempted": min(30, len(candidates)),
+    "readable": sum(x.get("detalle_estado") == "consultado_sin_verificacion_integral" for x in candidates[:30]),
+    "failed": sum(x.get("detalle_estado") == "error" for x in candidates[:30]),
+    "note": "La ficha legible no equivale a vivienda verificada",
+}
 status["candidate_listings"] = len(candidates)
 (DATA / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=2), encoding="utf-8")
 (DATA / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
