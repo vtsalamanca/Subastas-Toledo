@@ -71,12 +71,11 @@ def collect_boe():
             if not links:
                 continue
             # El juzgado no acredita el municipio del inmueble.
-            if not LOCAL.search(text[:1500]):
-                continue
             candidates.append({
                 "id": boe_id,
-                "descripcion": "Anuncio judicial vinculado a Toledo; inmueble y ubicación sin confirmar",
+                "descripcion": "Anuncio BOE; ubicación del inmueble sin confirmar",
                 "municipio": "Por comprobar",
+                "menciones_locales_anuncio": sorted(set(LOCAL.findall(text))),
                 "url": "https://www.boe.es/diario_boe/txt.php?id=" + boe_id,
                 "subasta_url": links[0],
                 "clasificacion": "candidato_sin_verificar"
