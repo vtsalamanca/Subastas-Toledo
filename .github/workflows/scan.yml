@@ -19,7 +19,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python src/scan.py
+      - name: Instalar dependencias
+        run: python -m pip install -r requirements.txt
+      - name: Ejecutar consulta BOE
+        run: python src/scan.py
       - name: Guardar estado
         run: |
           git config user.name "github-actions[bot]"
