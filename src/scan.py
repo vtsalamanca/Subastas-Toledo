@@ -97,7 +97,7 @@ for source in SOURCES:
         known = {x["id"]: x for x in old}
         for item in found:
             known[item["id"]] = item
-        candidates = sorted(known.values(), key=lambda x: x["id"], reverse=True)[:500]
+        candidates = sorted(known.values(), key=lambda x: x["id"], reverse=True)
         status["sources"].append({"id": source["id"], "status": "partial" if errors else "checked_announcements", "reason": "Anuncios BOE, no viviendas verificadas", "documents_scanned": scanned, "errors": errors[:10]})
     except Exception as exc:
         status["sources"].append({"id": source["id"], "status": "error", "reason": str(exc)[:400]})
