@@ -1,6 +1,6 @@
 """Prueba real y acotada de fuentes. No altera resultados públicos."""
 import json
-import os
+import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import requests
@@ -39,3 +39,19 @@ for ident in ("SUB-JA-2026-267377", "SUB-JA-2026-260645", "SUB-JA-2026-263668"):
     check("portal_detail", "https://subastas.boe.es/ds.php?id=" + ident, "html")
 OUT.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
 print(json.dumps(report, ensure_ascii=False))
+
+accepted_results = {"readable_json", "readable_html"}
+failed_checks = [row for row in report["checks"] if row["result"] not in accepted_results]
+if failed_checks:
+    print(
+        json.dumps(
+            {
+                "result": "failed",
+                "failed_checks": [row["name"] for row in failed_checks],
+                "report": str(OUT),
+            },
+            ensure_ascii=False,
+        ),
+        file=sys.stderr,
+    )
+    raise SystemExit(1)
