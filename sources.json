@@ -3,18 +3,30 @@
     "id": "boe_subastas",
     "name": "Portal de Subastas BOE",
     "url": "https://subastas.boe.es/",
-    "status": "pending_adapter"
+    "status": "pending_adapter",
+    "nivel": 1,
+    "funcion": "descubrimiento_y_contraste_parcial",
+    "consulta_implementada": true,
+    "verificacion_integral": false
   },
   {
     "id": "hacienda",
     "name": "Agencia Tributaria",
     "url": "https://sede.agenciatributaria.gob.es/",
-    "status": "pending_adapter"
+    "status": "pending_adapter",
+    "nivel": 1,
+    "funcion": "descubrimiento_pendiente",
+    "consulta_implementada": false,
+    "verificacion_integral": false
   },
   {
     "id": "segipsa",
     "name": "SEGIPSA",
     "url": "https://www.segipsa.es/",
-    "status": "pending_adapter"
+    "status": "pending_adapter",
+    "nivel": 1,
+    "funcion": "descubrimiento_pendiente",
+    "consulta_implementada": false,
+    "verificacion_integral": false
   }
 ]
