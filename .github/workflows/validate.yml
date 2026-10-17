@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - development/validated-scanner
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
