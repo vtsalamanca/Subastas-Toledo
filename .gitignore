@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.deps/
+.wheels/
+.venv*/
+.tmp-*/
+.validation-evidence-path
+artifacts/
+probe-report.json
+requests-pypi.json
