@@ -8,3 +8,4 @@ __pycache__/
 artifacts/
 probe-report.json
 requests-pypi.json
+coverage-run.log

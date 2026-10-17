@@ -1,123 +1,54 @@
+"""Ejecuta una extracción completa y medible del ámbito público definido."""
 import json
-import re
 import shutil
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
-import requests
-from bs4 import BeautifulSoup
-from enrich import enrich
-from normalize import normalize, coverage
-from diagnostics import diagnose
+
+from boe_portal import crawl_active_toledo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 WEB = ROOT / "docs" / "data"
 DATA.mkdir(exist_ok=True)
 WEB.mkdir(parents=True, exist_ok=True)
-NOW = datetime.now(timezone.utc)
-SOURCES = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
-SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "Subastas-Toledo/0.2 (+https://github.com/vtsalamanca/Subastas-Toledo)", "Accept": "application/json"})
-PATTERN = re.compile(r"BOE-B-\d{4}-\d+")
-AUCTION = re.compile(r"https://subastas\.boe\.es/ds\.php\?id=SUB-[A-Z0-9-]+")
-LOCAL = re.compile(r"\b(?:TOLEDO|NAMBROCA|BURGUILLOS|BURGUILLOS DE TOLEDO|COBISA|ARG[EÉ]S|OL[IÍ]AS DEL REY|BARGAS|AZUCAICA)\b", re.I)
 
-def crawl_ids(obj, out):
-    """Solo anuncios de secciones IV y V-B, no todo el BOE."""
-    def visit(node, eligible=False):
-        if isinstance(node, dict):
-            name = str(node.get("nombre", node.get("titulo", ""))).lower()
-            code = str(node.get("codigo", "")).upper()
-            if ("sección iv" in name or "sección cuarta" in name or "administración de justicia" in name or "otros anuncios oficiales" in name or code in ("4", "IV", "5B", "V-B")):
-                eligible = True
-            if "sección" in name and not any(x in name for x in ("iv", "cuarta", "administración de justicia", "otros anuncios oficiales")):
-                eligible = False
-            if eligible:
-                for k in ("identificador", "id"):
-                    v = node.get(k)
-                    if isinstance(v, str) and PATTERN.fullmatch(v):
-                        out.add(v)
-            for value in node.values():
-                visit(value, eligible)
-        elif isinstance(node, list):
-            for value in node:
-                visit(value, eligible)
-    visit(obj)
 
-def collect_boe():
-    ids = set()
-    errors = []
-    # Ventana solapada para cubrir festivos y fallos puntuales.
-    for days in range(0, 8):
-        date = (NOW - timedelta(days=days)).strftime("%Y%m%d")
-        url = "https://www.boe.es/datosabiertos/api/boe/sumario/" + date
-        try:
-            res = SESSION.get(url, timeout=25, headers={"Accept": "application/json"})
-            if res.status_code == 404:
-                continue
-            res.raise_for_status()
-            crawl_ids(res.json(), ids)
-        except (requests.RequestException, ValueError) as exc:
-            errors.append(date + ": " + str(exc)[:150])
-    if not ids:
-        raise RuntimeError("Sin identificadores extraídos: comprobar estructura de la API. " + "; ".join(errors[:3]))
-    candidates = []
-    for boe_id in sorted(ids):
-        try:
-            r = SESSION.get("https://www.boe.es/diario_boe/txt.php", params={"id": boe_id}, timeout=20)
-            r.raise_for_status()
-            soup = BeautifulSoup(r.text, "html.parser")
-            text = soup.get_text(" ", strip=True)
-            links = AUCTION.findall(r.text.replace("&amp;", "&"))
-            if not links:
-                continue
-            # El juzgado no acredita el municipio del inmueble.
-            candidates.append({
-                "id": boe_id,
-                "descripcion": "Anuncio BOE; ubicación del inmueble sin confirmar",
-                "municipio": "Por comprobar",
-                "menciones_locales_anuncio": sorted(set(LOCAL.findall(text))),
-                "url": "https://www.boe.es/diario_boe/txt.php?id=" + boe_id,
-                "subasta_url": links[0],
-                "clasificacion": "candidato_sin_verificar"
-            })
-        except requests.RequestException as exc:
-            errors.append(boe_id + ": " + str(exc)[:100])
-    return candidates, len(ids), errors
+def main():
+    auctions, coverage = crawl_active_toledo()
+    generated_at = datetime.now(timezone.utc).isoformat()
+    status = {
+        "last_run": generated_at,
+        "scope": coverage["scope"],
+        "sources": [
+            {"id": "boe_subastas", "status": "checked" if coverage["complete"] else "error",
+             "reason": "Búsqueda oficial, paginación y fichas públicas"},
+            {"id": "hacienda", "status": "covered_by_boe_portal",
+             "reason": "Las subastas electrónicas AEAT se publican y celebran en el Portal BOE",
+             "references_found": sum(row["referencia"].startswith("SUB-AT-") for row in auctions)},
+            {"id": "segipsa", "status": "covered_by_boe_portal",
+             "reason": "Las subastas electrónicas SEGIPSA del ámbito se celebran en el Portal BOE; no cubre ventas presenciales"},
+        ],
+        "coverage": coverage,
+        "verified_public_auctions": len(auctions),
+        "verified_public_goods": coverage["goods_extracted"],
+        "complete": coverage["complete"],
+    }
+    diagnostics = {
+        "generated_at": generated_at, "complete": coverage["complete"],
+        "issues": coverage["errors"],
+        "proof": {key: coverage[key] for key in (
+            "declared_total", "extracted_unique", "pages_read", "details_attempted",
+            "details_readable", "goods_extracted", "documents_linked")},
+    }
+    payloads = {"results.json": auctions, "candidates.json": auctions,
+                "status.json": status, "diagnostics.json": diagnostics}
+    for name, payload in payloads.items():
+        (DATA / name).write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        shutil.copyfile(DATA / name, WEB / name)
+    print(json.dumps(status, ensure_ascii=False))
+    if not coverage["complete"]:
+        raise SystemExit(1)
 
-status = {"last_run": NOW.isoformat(), "sources": [], "verified_listings": 0, "candidate_listings": 0}
-old_path = DATA / "candidates.json"
-old = json.loads(old_path.read_text(encoding="utf-8")) if old_path.exists() else []
-candidates = old
-for source in SOURCES:
-    if source["id"] != "boe_subastas":
-        status["sources"].append({"id": source["id"], "status": "not_checked", "reason": "Adaptador pendiente"})
-        continue
-    try:
-        found, scanned, errors = collect_boe()
-        known = {x["id"]: x for x in old}
-        for item in found:
-            known[item["id"]] = item
-        candidates = sorted(known.values(), key=lambda x: x["id"], reverse=True)
-        status["sources"].append({"id": source["id"], "status": "partial" if errors else "checked_announcements", "reason": "Anuncios BOE, no viviendas verificadas", "documents_scanned": scanned, "errors": errors[:10]})
-    except Exception as exc:
-        status["sources"].append({"id": source["id"], "status": "error", "reason": str(exc)[:400]})
-# Fichas oficiales: lectura preliminar, sin certificar viviendas.
-for i, candidate in enumerate(candidates):
-    candidates[i] = enrich(candidate, SESSION)
-status["portal_details"] = {
-    "attempted": len(candidates),
-    "readable": sum(x.get("detalle_estado") == "consultado_sin_verificacion_integral" for x in candidates),
-    "failed": sum(x.get("detalle_estado") == "error" for x in candidates),
-    "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada",
-}
-candidates = normalize(candidates)
-status["coverage"] = coverage(status["sources"], status["portal_details"])
-status["candidate_listings"] = len(candidates)
-(DATA / "diagnostics.json").write_text(json.dumps(diagnose(status, candidates), ensure_ascii=False, indent=2), encoding="utf-8")
-(DATA / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=2), encoding="utf-8")
-(DATA / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
-for name in ("candidates.json", "status.json", "results.json", "diagnostics.json"):
-    shutil.copyfile(DATA / name, WEB / name)
-print(json.dumps(status, ensure_ascii=False))
+
+if __name__ == "__main__":
+    main()
