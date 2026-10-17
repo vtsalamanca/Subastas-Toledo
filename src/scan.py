@@ -107,7 +107,7 @@ for i, candidate in enumerate(candidates):
 status["portal_details"] = {
     "attempted": len(candidates),
     "readable": sum(x.get("detalle_estado") == "consultado_sin_verificacion_integral" for x in candidates),
-    "failed": sum(x.get("detalle_estado") == "error" for x in candidates[:30]),
+    "failed": sum(x.get("detalle_estado") == "error" for x in candidates),
     "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada",
 }
 status["candidate_listings"] = len(candidates)
