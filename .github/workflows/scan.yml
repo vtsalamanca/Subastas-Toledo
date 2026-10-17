@@ -21,7 +21,10 @@ jobs:
           python-version: '3.12'
       - name: Instalar dependencias
         run: python -m pip install -r requirements.txt
+      - name: Verificar sintaxis del rastreador
+        run: python -m compileall -q src
       - name: Ejecutar consulta BOE
+        timeout-minutes: 45
         run: python src/scan.py
       - name: Guardar estado
         run: |
