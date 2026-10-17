@@ -49,6 +49,9 @@ def enrich(candidate, session=None):
             raise ValueError("Respuesta no HTML")
         if len(BeautifulSoup(response.text, "html.parser").get_text(" ", strip=True)) < 100:
             raise ValueError("Ficha sin contenido legible suficiente")
+        page_text = BeautifulSoup(response.text, "html.parser").get_text(" ", strip=True)
+        if re.search(r"(?i)(error 404|página no encontrada|acceso denegado|servicio no disponible)", page_text[:800]):
+            raise ValueError("Posible página de error del portal")
         result.update(parse_detail(response.text, url))
         result["detalle_estado"] = "consultado_sin_verificacion_integral"
         result.pop("detalle_error", None)
