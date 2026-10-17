@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 import requests
 from bs4 import BeautifulSoup
 from enrich import enrich
+from normalize import normalize, coverage
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -110,6 +111,8 @@ status["portal_details"] = {
     "failed": sum(x.get("detalle_estado") == "error" for x in candidates),
     "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada",
 }
+candidates = normalize(candidates)
+status["coverage"] = coverage(status["sources"], status["portal_details"])
 status["candidate_listings"] = len(candidates)
 (DATA / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=2), encoding="utf-8")
 (DATA / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
