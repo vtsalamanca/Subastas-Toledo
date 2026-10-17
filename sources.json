@@ -1,0 +1,20 @@
+[
+  {
+    "id": "boe_subastas",
+    "name": "Portal de Subastas BOE",
+    "url": "https://subastas.boe.es/",
+    "status": "pending_adapter"
+  },
+  {
+    "id": "hacienda",
+    "name": "Agencia Tributaria",
+    "url": "https://sede.agenciatributaria.gob.es/",
+    "status": "pending_adapter"
+  },
+  {
+    "id": "segipsa",
+    "name": "SEGIPSA",
+    "url": "https://www.segipsa.es/",
+    "status": "pending_adapter"
+  }
+]
