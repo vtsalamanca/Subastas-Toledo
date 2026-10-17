@@ -102,13 +102,13 @@ for source in SOURCES:
     except Exception as exc:
         status["sources"].append({"id": source["id"], "status": "error", "reason": str(exc)[:400]})
 # Fichas oficiales: lectura preliminar, sin certificar viviendas.
-for i, candidate in enumerate(candidates[:30]):
+for i, candidate in enumerate(candidates):
     candidates[i] = enrich(candidate, SESSION)
 status["portal_details"] = {
-    "attempted": min(30, len(candidates)),
-    "readable": sum(x.get("detalle_estado") == "consultado_sin_verificacion_integral" for x in candidates[:30]),
+    "attempted": len(candidates),
+    "readable": sum(x.get("detalle_estado") == "consultado_sin_verificacion_integral" for x in candidates),
     "failed": sum(x.get("detalle_estado") == "error" for x in candidates[:30]),
-    "note": "La ficha legible no equivale a vivienda verificada",
+    "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada",
 }
 status["candidate_listings"] = len(candidates)
 (DATA / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=2), encoding="utf-8")
