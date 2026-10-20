@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-10-19T07:14:52.496672+00:00",
+  "last_run": "2026-10-20T07:07:50.256026+00:00",
   "sources": [
     {
       "id": "boe_subastas",
       "status": "checked_announcements",
       "reason": "Anuncios BOE, no viviendas verificadas",
-      "documents_scanned": 556,
+      "documents_scanned": 671,
       "errors": []
     },
     {
@@ -20,10 +20,10 @@
     }
   ],
   "verified_listings": 0,
-  "candidate_listings": 563,
+  "candidate_listings": 614,
   "portal_details": {
-    "attempted": 563,
-    "readable": 563,
+    "attempted": 614,
+    "readable": 614,
     "failed": 0,
     "note": "Intento de lectura de todas las fichas candidatas; no equivale a vivienda verificada"
   }
