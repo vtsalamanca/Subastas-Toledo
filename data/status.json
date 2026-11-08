@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-11-07T07:25:29.318526+00:00",
+  "last_run": "2026-11-08T07:26:56.287837+00:00",
   "sources": [
     {
       "id": "boe_subastas",
       "status": "checked_announcements",
       "reason": "Anuncios BOE, no viviendas verificadas",
-      "documents_scanned": 842,
+      "documents_scanned": 578,
       "errors": []
     },
     {
